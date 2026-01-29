@@ -4,7 +4,7 @@ emoji: 🌊
 colorFrom: blue
 colorTo: indigo
 sdk: streamlit
-app_file: src/streamlit_app.py  # <--- Добавляем src/
+app_file: streamlit_app.py
 pinned: false
 ---
 🌊 DeepDive Academy
