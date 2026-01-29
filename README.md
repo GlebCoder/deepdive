@@ -1,3 +1,12 @@
+---
+title: DeepDive
+emoji: 🌊
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+app_file: src/streamlit_app.py  # <--- Добавляем src/
+pinned: false
+---
 🌊 DeepDive Academy
 DeepDive is an interactive mission-based platform designed to forge the next generation of elite software engineers.
 
